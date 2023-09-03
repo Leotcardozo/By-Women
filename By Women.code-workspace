@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Lógica de programación/Front End/React"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "By Women"
+	}
+}
