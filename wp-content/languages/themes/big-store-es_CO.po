@@ -1,0 +1,1692 @@
+# Translation of Themes - Big Store in Spanish (Colombia)
+# This file is distributed under the same license as the Themes - Big Store package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-01-08 10:32:28+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: es_CO\n"
+"Project-Id-Version: Themes - Big Store\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Big Store is an eCommerce WordPress theme specially made for shopping websites. You can create any type of online store website using it. Theme is best suited for Fashion & Clothing store, furniture, grocery, clothing, electronic, gadget store and decorative gifts stores. Theme option panel is so easy to use and theme is also fully responsive to each & every device like Mobile, ipads etc. Some theme features are Tabbed product carousel, Woo Category layouts, Header & Footer combinations, quick view, translation ready, Ajax search, shop with category, Top slider layouts, Product Filter, Product styles, Color & Background options etc. Theme is deeply integrated with WooCommerce plugin to sell your products online.  See demo here: https://themehunk.com/big-store-ecommerce-wordpress-theme/"
+msgstr "Big Store es un tema de comercio electrónico para WordPress, especialmente diseñado para sitios web de compras. Usándolo, puedes crear cualquier tipo de sitio web de tienda online.  Adecuado para tiendas de moda y ropa, muebles, comestibles, electrónica, gadgets y de regalos decorativos. El panel de opciones es muy fácil de usar y es completamente adaptable a todos los dispositivos como móviles, iPads, etc. Algunas de las características que dispone son: carrusel de productos con pestañas, diseño de categorías WooCommerce, combinaciones de cabeceras y pies de página, vista rápida, preparado para traducir, búsquedas con Ajax, compras por categorías, diseño con carrusel superior, filtro de producto, estilos de producto, opciones de color y fondo, etc. Compatible con WooCommerce. Mira las demostraciones aquí: https://themehunk.com/big-store-ecommerce-wordpress-theme/"
+
+#. Theme Name of the theme
+#: block-pattern.php:22 lib/th-option/free-pro.php:7
+#: lib/th-option/th-option.php:14
+#, gp-priority: high
+msgid "Big Store"
+msgstr "Big Store"
+
+#: customizer/register-panels-and-sections.php:694
+msgid "Tooltip Option"
+msgstr "Opción de información emergente"
+
+#: customizer/section/woo/tooltip.php:15
+msgid "Header Tooltip Enable."
+msgstr "Activa la información emergente de la cabecera."
+
+#: customizer/section/woo/tooltip.php:27
+msgid "Page Tooltip Enable."
+msgstr "Activa la información emergente de la página."
+
+#: customizer/section/woo/tooltip.php:44
+msgid "Tooltip Background Color"
+msgstr "Color de fondo de la información emergente"
+
+#: customizer/section/woo/tooltip.php:61
+msgid "Tooltip Text Color"
+msgstr "Color del texto de la información emergente"
+
+#: customizer/section/woo/tooltip.php:103
+msgid "Add To Cart Tooltip Text"
+msgstr "Texto de la información emergente de «Añadir al carrito»"
+
+#: customizer/section/woo/tooltip.php:122
+msgid "Wishlist Button Tooltip Text"
+msgstr "Texto de la información emergente del botón de la lista de deseos"
+
+#: customizer/section/woo/tooltip.php:141
+msgid "Quick View button Tooltip Text"
+msgstr "Texto de la información emergente del botón de vista rápida"
+
+#: customizer/section/woo/tooltip.php:160
+msgid "Compare button Tooltip Text"
+msgstr "Texto de la información emergente del botón para comparar"
+
+#: functions.php:365
+msgid "Add To Cart"
+msgstr "Añadir al carrito"
+
+#: functions.php:367
+msgid "Quickview"
+msgstr "Vista rápida"
+
+#: functions.php:368
+msgid "Compare"
+msgstr "Comparar"
+
+#: functions.php:114 functions.php:184
+msgid "TH Advance Product Search"
+msgstr "TH Advance Product Search"
+
+#: inc/header-function.php:884
+msgid "Please Install \"th advance product search\" Plugin"
+msgstr "Por favor, instala el plugin TH Advance Product Search"
+
+#: functions.php:134
+msgid "TH Variation Swatches"
+msgstr "TH Variation Swatches"
+
+#: customizer/section/layout/footer/bottom-footer22.php:52
+msgid "Menu (pro)"
+msgstr "Menú (pro)"
+
+#: customizer/section/layout/footer/bottom-footer22.php:53
+msgid "Widget (pro)"
+msgstr "Widget (pro)"
+
+#: customizer/section/layout/footer/bottom-footer22.php:54
+msgid "Social Media (pro)"
+msgstr "Medios sociales (pro)"
+
+#: customizer/section/color/below-header-color.php:44
+msgid "Category Icon Color"
+msgstr "Color del ícono de la categoría"
+
+#: customizer/section/color/below-header-color.php:29
+msgid "Category Text Color"
+msgstr "Color del texto de la categoría"
+
+#: customizer/section/woo/shop.php:29
+msgid "Shop Page Pagination"
+msgstr "Paginación de la tienda"
+
+#: searchform.php:12
+msgid "search.."
+msgstr "buscar..."
+
+#. Template Name of the theme
+msgid "Homepage Template"
+msgstr "Plantilla de la página de inicio"
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:40
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s comentario en «%2$s»"
+msgstr[1] "%1$s comentarios en «%2$s»"
+
+#. translators: 1: title.
+#: comments.php:34
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Un comentario sobre &ldquo;%1$s&rdquo;"
+
+#: inc/woocommerce/quick-view/quick-view-product-image.php:51
+msgid "Placeholder"
+msgstr "Marcador de posición"
+
+#: inc/woocommerce/woo-function.php:422 inc/woocommerce/woo-function.php:456
+msgid "No categories"
+msgstr "No hay categorías"
+
+#: functions.php:364
+msgid "Account"
+msgstr "Cuenta"
+
+#: inc/woocommerce/woo-function.php:233
+msgid "Meta Information"
+msgstr "Meta información"
+
+#: inc/woocommerce/woo-core.php:588 inc/woocommerce/woo-core.php:590
+msgid "Load More"
+msgstr "Cargar más"
+
+#: inc/woocommerce/woo-core.php:515 inc/woocommerce/woo-core.php:519
+msgid "List View"
+msgstr "Vista de lista"
+
+#: inc/woocommerce/woo-core.php:513 inc/woocommerce/woo-core.php:517
+msgid "Grid View"
+msgstr "Vista de cuadrícula"
+
+#: inc/woocommerce/woo-core.php:359
+msgid "Quick View"
+msgstr "Vista rápida"
+
+#: inc/woocommerce/woo-core.php:254
+msgid "No more products to show."
+msgstr "No hay más productos para mostrar."
+
+#: inc/woocommerce/woo-core.php:103
+msgid "This sidebar will be used on Single Product page."
+msgstr "Esta barra lateral se usará en la página de producto individual."
+
+#: inc/woocommerce/woo-core.php:101
+msgid "Product Sidebar"
+msgstr "Barra lateral del producto"
+
+#: inc/woocommerce/woo-core.php:94
+msgid "Add widgets here to appear in your WooCommerce Sidebar."
+msgstr "Añade widgets aquí para que aparezcan en la barra lateral de WooCommerce."
+
+#: inc/woocommerce/woo-core.php:92
+msgid "WooCommerce Sidebar"
+msgstr "Barra lateral de WooCommerce"
+
+#: inc/woocommerce/woocommerce-ajax.php:29
+msgid "<span class=\"count-item\">%d <span class=\"item\">item</span></span>"
+msgid_plural "<span class=\"count-item\">%d <span class=\"item\">items</span></span>"
+msgstr[0] "<span class=\"count-item\">%d <span class=\"item\">artículo</span></span>"
+msgstr[1] "<span class=\"count-item\">%d <span class=\"item\">artículos</span></span>"
+
+#: inc/blog-function.php:107 inc/blog-function.php:108
+msgid "&nbsp;"
+msgstr "&nbsp;"
+
+#: inc/blog-function.php:87
+msgid "Read More"
+msgstr "Leer más"
+
+#: inc/admin-function.php:477
+msgid "Search Results for: %s"
+msgstr "Resultados de la búsqueda de: %s"
+
+#: inc/admin-function.php:41
+msgid "Footer Menu"
+msgstr "Menú del pie de página"
+
+#: inc/admin-function.php:40
+msgid "Sticky"
+msgstr "Fijo"
+
+#: inc/admin-function.php:39
+msgid "Main"
+msgstr "Principal"
+
+#: inc/admin-function.php:38
+msgid "Header Above Menu"
+msgstr "Menú encima de la cabecera"
+
+#: inc/header-function.php:803
+msgid "Categories"
+msgstr "Categorías"
+
+#: functions.php:366 inc/header-function.php:436
+msgid "Wishlist"
+msgstr "Lista de deseos"
+
+#: inc/header-function.php:97 inc/header-function.php:147
+#: inc/header-function.php:197
+msgid "Assign Above header menu"
+msgstr "Asignar menú encima de la cabecera"
+
+#: inc/footer-function.php:243 inc/footer-function.php:276
+#: inc/footer-function.php:309 inc/footer.php:57 inc/footer.php:91
+#: inc/footer.php:125
+msgid "Assign footer menu"
+msgstr "Asignar menú al pie de página"
+
+#: inc/footer-function.php:68 inc/footer-function.php:78
+#: inc/footer-function.php:83 inc/footer-function.php:94
+#: inc/footer-function.php:99 inc/footer-function.php:104
+#: inc/footer-function.php:118 inc/footer-function.php:123
+#: inc/footer-function.php:128 inc/footer-function.php:137
+#: inc/footer-function.php:152 inc/footer-function.php:157
+#: inc/footer-function.php:162 inc/footer-function.php:176
+#: inc/footer-function.php:181 inc/footer-function.php:186
+#: inc/footer-function.php:198 inc/footer-function.php:203
+#: inc/footer-function.php:211 inc/footer-function.php:216
+#: inc/footer-function.php:250 inc/footer-function.php:283
+#: inc/footer-function.php:316 inc/footer.php:65 inc/footer.php:99
+#: inc/footer.php:133 inc/header-function.php:104 inc/header-function.php:154
+#: inc/header-function.php:204
+msgid "Add Widget"
+msgstr "Añadir widget"
+
+#: lib/th-option/th-option.php:161
+msgid "Plugin Successfully Activated"
+msgstr "El plugin se ha activado correctamente"
+
+#: lib/th-option/th-option.php:140
+msgid "No plugin specified"
+msgstr "No se ha especificado ningún plugin"
+
+#: lib/th-option/th-option.php:231
+msgid "Activate Now"
+msgstr "Activar ahora"
+
+#: lib/th-option/th-option.php:209
+msgid "Install Now"
+msgstr "Instalar ahora"
+
+#: lib/th-option/sidebar.php:36
+msgid "Submit a Ticket"
+msgstr "Enviar un ticket"
+
+#: lib/th-option/need-help.php:32
+msgid "Join the community of friendly ThemeHunk users. Get connected, share opinion, ask questions and help each other !"
+msgstr "Únete a la amistosa comunidad de usuarios de ThemeHunk. ¡Conéctate, comparte opiniones, haz preguntas y recibe ayuda de otros usuarios!"
+
+#: lib/th-option/tab-html.php:35
+msgid "Welcome"
+msgstr "Bienvenido(a)"
+
+#: lib/th-option/th-option.php:13
+msgid "Big Store Options"
+msgstr "Opciones de Big Store"
+
+#: lib/page-meta-box/bigstore-page-meta-box.php:38
+msgid "Left Sidebar"
+msgstr "Barra lateral izquierda "
+
+#: lib/page-meta-box/bigstore-page-meta-box.php:37
+msgid "No Sidebar"
+msgstr "Sin barra lateral"
+
+#: lib/page-meta-box/bigstore-page-meta-box.php:36
+msgid "Right Sidebar"
+msgstr "Barra lateral derecha"
+
+#: lib/page-meta-box/bigstore-page-meta-box.php:25
+msgid "Dynamic Sidebar"
+msgstr "Barra lateral dinámica"
+
+#: lib/breadcrumbs/breadcrumbs.php:792
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr "W"
+
+#: lib/breadcrumbs/breadcrumbs.php:764 lib/breadcrumbs/breadcrumbs.php:1194
+msgctxt "daily archives date format"
+msgid "j"
+msgstr "j"
+
+#: lib/breadcrumbs/breadcrumbs.php:763 lib/breadcrumbs/breadcrumbs.php:819
+#: lib/breadcrumbs/breadcrumbs.php:1190
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr "F"
+
+#: lib/breadcrumbs/breadcrumbs.php:762 lib/breadcrumbs/breadcrumbs.php:791
+#: lib/breadcrumbs/breadcrumbs.php:818 lib/breadcrumbs/breadcrumbs.php:845
+#: lib/breadcrumbs/breadcrumbs.php:1186
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "A"
+
+#: lib/breadcrumbs/breadcrumbs.php:746
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr "g a"
+
+#: lib/breadcrumbs/breadcrumbs.php:729
+msgctxt "minute archives time format"
+msgid "i"
+msgstr "i"
+
+#: lib/breadcrumbs/breadcrumbs.php:712
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr "g:i a"
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: lib/breadcrumbs/breadcrumbs.php:260
+msgid "Week %s"
+msgstr "Semana %s"
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: lib/breadcrumbs/breadcrumbs.php:258
+msgid "Minute %s"
+msgstr "Minuto %s"
+
+#. Translators: %s is the page number.
+#: lib/breadcrumbs/breadcrumbs.php:256
+msgid "Page %s"
+msgstr "Página %s"
+
+#. Translators: %s is the search query. The HTML entities are opening and
+#. closing curly quotes.
+#: lib/breadcrumbs/breadcrumbs.php:254
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "Resultados de la búsqueda de «%s»"
+
+#: lib/breadcrumbs/breadcrumbs.php:252
+msgid "Archives"
+msgstr "Archivos"
+
+#: lib/breadcrumbs/breadcrumbs.php:251
+msgid "404 Not Found"
+msgstr "404 No encontrado"
+
+#: lib/breadcrumbs/breadcrumbs.php:250
+msgid "Home"
+msgstr "Inicio"
+
+#: lib/breadcrumbs/breadcrumbs.php:249
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr "Migas de pan"
+
+#: lib/breadcrumbs/breadcrumbs.php:248
+msgid "Browse:"
+msgstr "Navegar:"
+
+#: customizer/extend-customizer/class-big-store-wp-customize-section.php:52
+msgid "Customizing"
+msgstr "Personalización"
+
+#: customizer/extend-customizer/class-big-store-wp-customize-section.php:50
+msgid "Customizing &#9656; %s"
+msgstr "Personalización &#9656; %s"
+
+#: customizer/custom-customizer.php:531
+msgid "Doc"
+msgstr "Documentación"
+
+#: customizer/section-ordering.php:39
+msgid "Icon Color"
+msgstr "Color del ícono"
+
+#: customizer/section/woo/checkout.php:38
+msgid "To know more go with this <a target=\"_blank\" href=\"%s\">Doc</a> !"
+msgstr "Para saber más, consulta esta <a target=\"_blank\" href=\"%s\">documentación</a>"
+
+#: customizer/section/woo/checkout.php:22
+msgid "Enable Distraction Free Checkout."
+msgstr "Activar el pago sin distracciones."
+
+#: customizer/section/woo/product.php:45
+msgid "Enable Quick View."
+msgstr "Activar la vista rápida."
+
+#: customizer/section/woo/product.php:32
+msgid "Enable Product Tilte in Single line"
+msgstr "Activar el título del producto a una sola línea"
+
+#: customizer/section/woo/product.php:21
+msgid "Slide Swap (Pro)"
+msgstr "Deslizar (Pro)"
+
+#: customizer/section/woo/product.php:20
+msgid "Fade Swap (Pro)"
+msgstr "Fundido (Pro)"
+
+#: customizer/section/woo/product.php:19
+msgid "Zoom"
+msgstr "Acercar"
+
+#: customizer/section/woo/product.php:14
+msgid "Product Image Hover Style"
+msgstr "Estilo de la imagen del producto al pasar el cursor"
+
+#: customizer/section/woo/single-product.php:108
+msgid "Display Related product"
+msgstr "Mostrar los productos relacionados"
+
+#: customizer/section/woo/single-product.php:100
+msgid "Related Product"
+msgstr "Productos relacionados"
+
+#: customizer/section/woo/cart.php:55
+#: customizer/section/woo/single-product.php:77
+#: customizer/section/woo/single-product.php:150
+msgid "Number Of Product To Show"
+msgstr "Número de productos a mostrar"
+
+#: customizer/section/woo/cart.php:33
+#: customizer/section/woo/single-product.php:53
+#: customizer/section/woo/single-product.php:126
+msgid "Number Of Column To Show"
+msgstr "Número de columnas a mostrar"
+
+#: customizer/section/woo/single-product.php:37
+msgid "Display up sell product"
+msgstr "Mostrar productos de venta dirigida"
+
+#: customizer/section/woo/single-product.php:29
+msgid "Up Sell Product"
+msgstr "Venta dirigida"
+
+#: customizer/section/woo/single-product.php:14
+msgid "Force to disable sidebar in product page."
+msgstr "Forzar la desactivación de la barra lateral en la página del producto."
+
+#: customizer/section/woo/shop.php:48
+msgid "Load More Text"
+msgstr "Texto de «Cargar más»"
+
+#: customizer/section/woo/shop.php:15
+msgid "List"
+msgstr "Lista"
+
+#: customizer/section/woo/shop.php:14
+msgid "Grid"
+msgstr "Cuadricula"
+
+#: customizer/section/woo/shop.php:10
+msgid "(Select layout to display products at shop page.)"
+msgstr "(Selecciona el diseño para mostrar los productos en la página de la tienda.)"
+
+#: customizer/section/woo/shop.php:9
+msgid "Display Product View"
+msgstr "Mostrar la vista del producto"
+
+#: customizer/section/layout/social-icon/social-icon.php:130
+msgid "Skype URL"
+msgstr "URL de Skype"
+
+#: customizer/section/layout/social-icon/social-icon.php:117
+msgid "Dribble URL"
+msgstr "URL de Dribble"
+
+#: customizer/section/layout/social-icon/social-icon.php:105
+msgid "Stumbleupon URL"
+msgstr "URL de Stumbleupon"
+
+#: customizer/section/layout/social-icon/social-icon.php:93
+msgid "Youtube URL"
+msgstr "URL de YouTube"
+
+#: customizer/section/layout/social-icon/social-icon.php:81
+msgid "Tumblr URL"
+msgstr "URL de Tumblr"
+
+#: customizer/section/layout/social-icon/social-icon.php:69
+msgid "Instagram URL"
+msgstr "URL Instagram"
+
+#: customizer/section/layout/social-icon/social-icon.php:57
+msgid "Twitter URL"
+msgstr "URL de Twitter"
+
+#: customizer/section/layout/social-icon/social-icon.php:44
+msgid "Pinterest URL"
+msgstr "URL de Pinterest"
+
+#: customizer/section/layout/social-icon/social-icon.php:32
+msgid "LinkedIn URL"
+msgstr "URL de LinkedIn"
+
+#: customizer/section/layout/social-icon/social-icon.php:19
+msgid "Facebook URL"
+msgstr "URL de Facebook"
+
+#: customizer/section/layout/social-icon/social-icon.php:8
+msgid "Show Original Color"
+msgstr "Mostrar el color original"
+
+#: customizer/section/layout/blog/blog.php:85
+msgid "Force to disable sidebar in single page."
+msgstr "Forzar la desactivación de la barra lateral."
+
+#: customizer/section/layout/blog/blog.php:76
+#: customizer/section/woo/shop.php:35
+msgid "Infinite Scroll (Pro)"
+msgstr "Scroll infinito (Pro)"
+
+#: customizer/section/layout/blog/blog.php:75
+#: customizer/section/woo/shop.php:34
+msgid "Load More (Pro)"
+msgstr "Cargar más (Pro)"
+
+#: customizer/section/layout/blog/blog.php:74
+#: customizer/section/woo/shop.php:33
+msgid "Numbered"
+msgstr "Numerado"
+
+#: customizer/section/layout/blog/blog.php:70
+msgid "Post Pagination"
+msgstr "Paginación de las entradas"
+
+#: customizer/section/layout/blog/blog.php:54
+msgid "Read More Text"
+msgstr "Texto «Leer más»"
+
+#: customizer/section/layout/blog/blog.php:34
+msgid "Excerpt Length"
+msgstr "Longitud del extracto"
+
+#: customizer/section/layout/blog/blog.php:20
+msgid "No Content"
+msgstr "Sin contenido"
+
+#: customizer/section/layout/blog/blog.php:19
+msgid "Excerpt Content"
+msgstr "Extracto"
+
+#: customizer/section/layout/blog/blog.php:18
+msgid "Full Content"
+msgstr "Contenido completo"
+
+#: customizer/section/layout/blog/blog.php:14
+msgid "Blog Post Content"
+msgstr "Contenido de las entradas del blog"
+
+#: customizer/section/layout/header/main-header.php:315
+msgid "Choose Categories To Exclude"
+msgstr "Elige las categorías a excluir"
+
+#: customizer/section/layout/header/main-header.php:303
+msgid "Category Text"
+msgstr "Texto de la categoría"
+
+#: customizer/section/layout/header/main-header.php:265
+msgid "Check to disable cart icon in mobile device"
+msgstr "Márcalo para desactivar el ícono del carrito en dispositivos móviles"
+
+#: customizer/section/layout/header/main-header.php:253
+msgid "Check to disable account icon in mobile device"
+msgstr "Márcalo para desactivar el ícono de la cuenta en dispositivos móviles"
+
+#: customizer/section/layout/header/main-header.php:241
+msgid "Check to disable whislist icon in mobile device"
+msgstr "Márcalo para desactivar el ícono de favoritos en dispositivos móviles"
+
+#: customizer/section/layout/header/main-header.php:228
+msgid "Effect Two"
+msgstr "Efecto dos"
+
+#: customizer/section/layout/header/main-header.php:227
+msgid "Effect One"
+msgstr "Efecto uno"
+
+#: customizer/section/layout/header/main-header.php:223
+msgid "Sticky Header Effect"
+msgstr "Efecto de la cabecera fija"
+
+#: customizer/section/layout/header/main-header.php:195
+msgid "Header Shadow"
+msgstr "Sombra de la cabecera"
+
+#: customizer/section/layout/header/main-header.php:179
+msgid "Mobile Menu"
+msgstr "Menú para móviles"
+
+#: customizer/section/layout/header/main-header.php:147
+msgid "Call To Number"
+msgstr "Llamar al número"
+
+#: customizer/section/layout/header/main-header.php:141
+msgid "+1800090098"
+msgstr "+582121234567"
+
+#: customizer/section/layout/header/main-header.php:134
+msgid "Call To Text"
+msgstr "Texto de «Llamar a»"
+
+#: customizer/section/layout/header/main-header.php:128
+msgid "Call To"
+msgstr "Llamar a"
+
+#: customizer/section/layout/header/main-header.php:119
+msgid "Button Link"
+msgstr "Botón de enlace"
+
+#: customizer/section/layout/header/main-header.php:113
+msgid "#"
+msgstr "#"
+
+#: customizer/section/layout/header/above-header.php:67
+#: customizer/section/layout/header/above-header.php:152
+#: customizer/section/layout/header/main-header.php:92
+msgid "Widget (Pro)"
+msgstr "Widget (Pro)"
+
+#: customizer/section/layout/header/main-header.php:90
+msgid "Button (Pro)"
+msgstr "Botón (Pro)"
+
+#: customizer/section/layout/header/main-header.php:84
+msgid "Right Column"
+msgstr "Columna derecha"
+
+#: customizer/section/layout/header/main-header.php:72
+#: customizer/section/layout/header/main-header.php:185
+msgid "Right"
+msgstr "Derecha"
+
+#: customizer/section/layout/header/main-header.php:71
+msgid "center"
+msgstr "centro"
+
+#: customizer/section/layout/header/main-header.php:70
+#: customizer/section/layout/header/main-header.php:183
+msgid "Left"
+msgstr "Izquierda"
+
+#: customizer/section/layout/header/main-header.php:66
+msgid "Menu Alignment"
+msgstr "Alineación del menú"
+
+#: customizer/section/layout/header/main-header.php:22
+#: lib/th-option/free-pro.php:26
+msgid "Header Layout"
+msgstr "Diseño de la cabecera"
+
+#: customizer/section-ordering.php:10
+#: customizer/section/layout/header/loader.php:65
+msgid "Enable"
+msgstr "Activar"
+
+#: customizer/section/layout/header/loader.php:39
+msgid "(You can also use GIF image.)"
+msgstr "(También puedes usar una imagen GIF)."
+
+#: customizer/section/layout/header/loader.php:38
+msgid "Pre Loader Image"
+msgstr "Imagen del precargador"
+
+#: customizer/section/layout/header/loader.php:8
+msgid "Enable Loader"
+msgstr "Activar el cargador"
+
+#: customizer/section/layout/header/set-identity.php:75
+msgid "Logo Width"
+msgstr "Ancho del logotipo"
+
+#: customizer/section/layout/header/set-identity.php:55
+msgid "Display Tagline"
+msgstr "Mostrar la descripción corta"
+
+#: customizer/section/layout/header/set-identity.php:40
+msgid "Display Site Title"
+msgstr "Mostrar el título del sitio"
+
+#: customizer/section/layout/header/set-identity.php:27
+msgid "Retina Logo"
+msgstr "Logotipo Retina"
+
+#: customizer/section/layout/footer/bottom-footer22.php:63
+msgid "Copyright | Big Store| Developed by ThemeHunk"
+msgstr "Copyright | Big Store | Desarrollado por ThemeHunk"
+
+#: customizer/section/layout/footer/above-footer.php:354
+#: customizer/section/layout/header/above-header.php:364
+msgid "Border Color"
+msgstr "Color del borde"
+
+#: customizer/section/layout/footer/above-footer.php:331
+#: customizer/section/layout/header/above-header.php:341
+msgid "Bottom Border"
+msgstr "Borde inferior"
+
+#: customizer/section/layout/footer/above-footer.php:305
+#: customizer/section/layout/header/above-header.php:319
+msgid "Height"
+msgstr "Altura"
+
+#: customizer/section/layout/footer/above-footer.php:216
+#: customizer/section/layout/header/above-header.php:230
+msgid "Column 3"
+msgstr "Columna 3"
+
+#: customizer/section/layout/footer/above-footer.php:133
+#: customizer/section/layout/header/above-header.php:145
+msgid "Column 2"
+msgstr "Columna 2"
+
+#: customizer/section/layout/footer/above-footer.php:117
+#: customizer/section/layout/footer/above-footer.php:202
+#: customizer/section/layout/footer/above-footer.php:251
+#: customizer/section/layout/header/above-header.php:131
+#: customizer/section/layout/header/above-header.php:216
+#: customizer/section/layout/header/above-header.php:268
+msgid "Go To Social Media"
+msgstr "Ir a la red social"
+
+#: customizer/section/layout/footer/above-footer.php:100
+#: customizer/section/layout/footer/above-footer.php:185
+#: customizer/section/layout/footer/above-footer.php:285
+#: customizer/section/layout/header/above-header.php:114
+#: customizer/section/layout/header/above-header.php:182
+#: customizer/section/layout/header/above-header.php:285
+msgid "Go To Menu"
+msgstr "Ir al menú"
+
+#: customizer/section/layout/footer/above-footer.php:83
+#: customizer/section/layout/footer/above-footer.php:168
+#: customizer/section/layout/footer/above-footer.php:268
+#: customizer/section/layout/footer/widget-footer.php:64
+#: customizer/section/layout/header/above-header.php:97
+#: customizer/section/layout/header/above-header.php:199
+#: customizer/section/layout/header/above-header.php:301
+#: customizer/section/layout/header/main-header.php:164
+msgid "Go To Widget"
+msgstr "Ir al widget"
+
+#: customizer/section/layout/footer/above-footer.php:60
+#: customizer/section/layout/footer/above-footer.php:146
+#: customizer/section/layout/footer/above-footer.php:229
+#: customizer/section/layout/header/above-header.php:74
+#: customizer/section/layout/header/above-header.php:159
+#: customizer/section/layout/header/above-header.php:245
+#: inc/footer-function.php:235 inc/footer-function.php:269
+#: inc/footer-function.php:302 inc/footer.php:84 inc/footer.php:118
+#: inc/header-function.php:74 inc/header-function.php:124
+#: inc/header-function.php:174
+msgid "Add your content here"
+msgstr "Añade tu contenido aquí"
+
+#: customizer/section/layout/footer/above-footer.php:55
+#: customizer/section/layout/footer/above-footer.php:141
+#: customizer/section/layout/footer/above-footer.php:224
+#: customizer/section/layout/header/above-header.php:153
+#: customizer/section/layout/header/above-header.php:238
+msgid "Social Media"
+msgstr "Redes sociales"
+
+#: customizer/section/layout/footer/above-footer.php:54
+#: customizer/section/layout/footer/above-footer.php:140
+#: customizer/section/layout/footer/above-footer.php:223
+#: customizer/section/layout/header/above-header.php:237
+msgid "Widget"
+msgstr "Widget"
+
+#: customizer/section/layout/footer/above-footer.php:53
+#: customizer/section/layout/footer/above-footer.php:139
+#: customizer/section/layout/footer/above-footer.php:222
+#: customizer/section/layout/header/above-header.php:236
+#: inc/header-function.php:799
+msgid "Menu"
+msgstr "Menú"
+
+#: customizer/section/layout/footer/above-footer.php:47
+#: customizer/section/layout/footer/bottom-footer22.php:46
+#: customizer/section/layout/header/above-header.php:60
+msgid "Column 1"
+msgstr "Columna 1"
+
+#: customizer/section/color/below-header-color.php:173
+msgid "Sub Menu Link Hover Color"
+msgstr "Color del enlace al pasar el cursor"
+
+#: customizer/section/color/below-header-color.php:158
+msgid "Sub Menu Link Color"
+msgstr "Color de los enlaces del submenú"
+
+#: customizer/section/color/below-header-color.php:143
+msgid "Sub Menu BG Color"
+msgstr "Color de fondo del submenú"
+
+#: customizer/section/color/global-color.php:76
+msgid "Title Color"
+msgstr "Color del título"
+
+#: customizer/section/color/global-color.php:15
+msgid "Theme Color"
+msgstr "Color del tema"
+
+#: customizer/section/color/main-header-color.php:67
+msgid "Link Color "
+msgstr "Color del enlace"
+
+#: customizer/section/color/above-footer-color.php:133
+#: customizer/section/color/below-header-color.php:117
+#: customizer/section/color/global-color.php:45
+msgid "Link Hover Color"
+msgstr "Color del enlace al pasar el cursor"
+
+#: customizer/section/color/above-footer-color.php:119
+#: customizer/section/color/above-header-color.php:57
+#: customizer/section/color/below-header-color.php:103
+#: customizer/section/color/global-color.php:30
+msgid "Link Color"
+msgstr "Color del enlace"
+
+#: customizer/section/color/above-footer-color.php:105
+#: customizer/section/color/above-header-color.php:42
+#: customizer/section/color/global-color.php:61
+#: customizer/section/color/main-header-color.php:52
+msgid "Text Color"
+msgstr "Color de texto"
+
+#: customizer/section/color/above-footer-color.php:71
+msgid "Background Image"
+msgstr "Imagen de fondo"
+
+#: customizer/section-ordering.php:25
+#: customizer/section/color/above-footer-color.php:25
+#: customizer/section/color/above-header-color.php:15
+#: customizer/section/color/below-header-color.php:14
+#: customizer/section/color/below-header-color.php:61
+#: customizer/section/color/main-header-color.php:25
+#: customizer/section/layout/header/loader.php:23
+msgid "Background Color"
+msgstr "Color de fondo"
+
+#: customizer/models/class-big-store-defaults-models.php:361
+#: customizer/models/class-big-store-defaults-models.php:365
+#: customizer/models/class-big-store-defaults-models.php:369
+#: customizer/models/class-big-store-defaults-models.php:373
+msgid "1008"
+msgstr "1008"
+
+#: customizer/models/class-big-store-defaults-models.php:293
+#: customizer/models/class-big-store-defaults-models.php:319
+msgid "Designer"
+msgstr "Diseñador"
+
+#: customizer/models/class-big-store-defaults-models.php:266
+msgid "Marketer"
+msgstr "Marketer"
+
+#: customizer/models/class-big-store-defaults-models.php:265
+msgid "Maurics"
+msgstr "Maurics"
+
+#: customizer/models/class-big-store-defaults-models.php:240
+#: customizer/models/class-big-store-defaults-models.php:267
+#: customizer/models/class-big-store-defaults-models.php:294
+#: customizer/models/class-big-store-defaults-models.php:320
+msgid "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+msgstr "Lorem Ipsum es simplemente un texto ficticio de la industria de la impresión y la composición tipográfica. "
+
+#: customizer/models/class-big-store-defaults-models.php:239
+msgid "Developer"
+msgstr "Desarrollador"
+
+#: customizer/models/class-big-store-defaults-models.php:238
+msgid "Gabriel"
+msgstr "Gabriel"
+
+#: customizer/models/class-big-store-defaults-models.php:221
+#: customizer/models/class-big-store-defaults-models.php:292
+#: customizer/models/class-big-store-defaults-models.php:318
+msgid "Ramedrin"
+msgstr "Ramedrin"
+
+#: customizer/models/class-big-store-defaults-models.php:213
+msgid "Artist"
+msgstr "Artista"
+
+#: customizer/models/class-big-store-defaults-models.php:212
+msgid "Nataliya"
+msgstr "Nataliya"
+
+#: customizer/models/class-big-store-defaults-models.php:206
+#: customizer/models/class-big-store-defaults-models.php:214
+#: customizer/models/class-big-store-defaults-models.php:223
+msgid "\"Nunc eu elementum libero. Etiam egestas leo eget urna ultrices, in finibus eros gravida. Donec scelerisque pulvinar dapibus. Nam pretium risus sed metus ultrices blandit. Pellentesque rhoncus est non nunc ultricies accumsan. Nullam gravida turpis et lacinia cursus. Fusce iaculis mattis consectetur.\""
+msgstr "\"Nunc eu elementum libero. Etiam egestas leo eget urna ultrices, in finibus eros gravida. Donec scelerisque pulvinar dapibus. Nam pretium risus sed metus ultrices blandit. Pellentesque rhoncus est non nunc ultricies accumsan. Nullam gravida turpis et lacinia cursus. Fusce iaculis mattis consectetur.\""
+
+#: customizer/models/class-big-store-defaults-models.php:205
+#: customizer/models/class-big-store-defaults-models.php:222
+msgid "Business Owner"
+msgstr "Propietario de la empresa"
+
+#: customizer/models/class-big-store-defaults-models.php:204
+msgid "Surbhi"
+msgstr "Surbhi"
+
+#: customizer/models/class-big-store-defaults-models.php:182
+msgid "Seo"
+msgstr "Seo"
+
+#: customizer/models/class-big-store-defaults-models.php:174
+msgid "Design"
+msgstr "Diseño"
+
+#: customizer/models/class-big-store-defaults-models.php:167
+#: customizer/models/class-big-store-defaults-models.php:175
+#: customizer/models/class-big-store-defaults-models.php:183
+msgid "Nam varius mauris eget sodales tempus. Quisque sollicitudin consectetur accumsan. Ut imperdiet mi velit, ut congue justo sagittis eget"
+msgstr "Nam varius mauris eget sodales tempus. Quisque sollicitudin consectetur accumsan. Ut imperdiet mi velit, ut congue justo sagittis eget"
+
+#: customizer/models/class-big-store-defaults-models.php:166
+msgid "Development"
+msgstr "Desarrollo"
+
+#: customizer/models/class-big-store-defaults-models.php:105
+#: customizer/models/class-big-store-defaults-models.php:111
+#: customizer/models/class-big-store-defaults-models.php:117
+#: customizer/models/class-big-store-defaults-models.php:123
+#: customizer/models/class-big-store-defaults-models.php:129
+#: customizer/models/class-big-store-defaults-models.php:135
+#: customizer/models/class-big-store-defaults-models.php:141
+#: customizer/models/class-big-store-defaults-models.php:147
+msgid "Nulla et sodales nisl. Nam auctor quis odio eu congue. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+msgstr "Nulla et sodales nisl. Nam auctor quis odio eu congue. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+
+#: customizer/models/class-big-store-defaults-models.php:103
+#: customizer/models/class-big-store-defaults-models.php:109
+#: customizer/models/class-big-store-defaults-models.php:115
+#: customizer/models/class-big-store-defaults-models.php:121
+#: customizer/models/class-big-store-defaults-models.php:127
+#: customizer/models/class-big-store-defaults-models.php:133
+#: customizer/models/class-big-store-defaults-models.php:139
+#: customizer/models/class-big-store-defaults-models.php:145
+msgid "What do you want to know"
+msgstr "¿Qué quieres saber?"
+
+#: customizer/models/class-big-store-defaults-models.php:71
+#: customizer/models/class-big-store-defaults-models.php:77
+#: customizer/models/class-big-store-defaults-models.php:83
+#: customizer/models/class-big-store-defaults-models.php:89
+msgid "On all order over "
+msgstr "En todos los pedidos mayores a"
+
+#: customizer/models/class-big-store-defaults-models.php:70
+#: customizer/models/class-big-store-defaults-models.php:76
+#: customizer/models/class-big-store-defaults-models.php:82
+#: customizer/models/class-big-store-defaults-models.php:88
+msgid "Free Shiping"
+msgstr "Envío gratis"
+
+#: customizer/register-panels-and-sections.php:686
+msgid "Shop Page"
+msgstr "Página de la tienda"
+
+#: customizer/register-panels-and-sections.php:679
+msgid "Cart Page"
+msgstr "Página del carrito"
+
+#: customizer/register-panels-and-sections.php:665
+msgid "Product Style"
+msgstr "Estilo del producto"
+
+#: customizer/register-panels-and-sections.php:656
+msgid "Content Color"
+msgstr "Color del contenido"
+
+#: customizer/register-panels-and-sections.php:647
+msgid "Pan / Mobile Menu Color"
+msgstr "Color del menú panorámico/móvil"
+
+#: customizer/register-panels-and-sections.php:638
+msgid "Custom Section Four"
+msgstr "Sección personalizada cuatro"
+
+#: customizer/register-panels-and-sections.php:629
+msgid "Custom Section Three"
+msgstr "Sección personalizada tres"
+
+#: customizer/register-panels-and-sections.php:621
+msgid "Custom Section Two"
+msgstr "Sección personalizada dos"
+
+#: customizer/register-panels-and-sections.php:613
+msgid "Custom Section"
+msgstr "Sección personalizada"
+
+#: customizer/register-panels-and-sections.php:596
+msgid "Product Tab Image"
+msgstr "Imagen de la pestaña del producto"
+
+#: customizer/register-panels-and-sections.php:510
+msgid "Frontpage"
+msgstr "Página de inicio"
+
+#: customizer/register-panels-and-sections.php:499
+#: customizer/register-panels-and-sections.php:672
+msgid "Single Product"
+msgstr "Producto individual"
+
+#: customizer/register-panels-and-sections.php:491
+msgid "Sale Badge"
+msgstr "Insignia de oferta"
+
+#: customizer/register-panels-and-sections.php:482
+msgid "Shopping Cart"
+msgstr "Carrito de la compra"
+
+#: customizer/register-panels-and-sections.php:474
+msgid "Product"
+msgstr "Producto"
+
+#: customizer/register-panels-and-sections.php:456
+msgid "Bottom Footer"
+msgstr "Pie de página inferior"
+
+#: customizer/register-panels-and-sections.php:448
+msgid "Footer Widget"
+msgstr "Widget de pie de página"
+
+#: customizer/register-panels-and-sections.php:414
+msgid "Shop Icon"
+msgstr "Ícono de la tienda"
+
+#: customizer/register-panels-and-sections.php:406 searchform.php:13
+msgid "Search"
+msgstr "Buscar"
+
+#: customizer/register-panels-and-sections.php:398
+#: customizer/section/layout/header/main-header.php:297
+msgid "Category"
+msgstr "Categoría"
+
+#: customizer/register-panels-and-sections.php:372
+#: lib/th-option/free-pro.php:206
+msgid "Off Canvas Sidebar"
+msgstr "Barra lateral fuera de lienzo"
+
+#: customizer/register-panels-and-sections.php:364
+msgid "Mobile"
+msgstr "Móvil"
+
+#: customizer/register-panels-and-sections.php:355
+#: customizer/section/layout/header/main-header.php:209
+msgid "Sticky Header"
+msgstr "Cabecera fija"
+
+#: customizer/register-panels-and-sections.php:347
+#: customizer/register-panels-and-sections.php:389
+msgid "Main Menu"
+msgstr "Menú principal"
+
+#: customizer/register-panels-and-sections.php:340
+msgid "Square Icon"
+msgstr "Ícono rectangular"
+
+#: customizer/register-panels-and-sections.php:332
+msgid "Below Header"
+msgstr "Debajo de la cabecera"
+
+#: customizer/register-panels-and-sections.php:304 lib/th-option/welcome.php:62
+msgid "Global Colors"
+msgstr "Colores globales"
+
+#: customizer/register-panels-and-sections.php:300
+msgid "Total Color & BG Options"
+msgstr "Color del total y opciones del fondo"
+
+#: customizer/register-panels-and-sections.php:290
+#: lib/th-option/free-pro.php:184
+msgid "Section Ordering"
+msgstr "Orden de las secciones"
+
+#: customizer/register-panels-and-sections.php:283
+msgid "Fourth Custom Section"
+msgstr "Cuarta sección personalizada"
+
+#: customizer/register-panels-and-sections.php:276
+msgid "Third Custom Section"
+msgstr "Tercera sección personalizada"
+
+#: customizer/register-panels-and-sections.php:269
+msgid "Second Custom Section"
+msgstr "Segunda sección personalizada"
+
+#: customizer/register-panels-and-sections.php:262
+msgid "First Custom Section"
+msgstr "Primera sección personalizada"
+
+#: customizer/register-panels-and-sections.php:256
+#: customizer/register-panels-and-sections.php:557
+msgid "Tabbed Product List Carousel"
+msgstr "Carrusel de lista de productos con pestañas"
+
+#: customizer/register-panels-and-sections.php:250
+#: customizer/register-panels-and-sections.php:603
+msgid "Big Featured Product"
+msgstr "Producto destacado grande"
+
+#: customizer/register-panels-and-sections.php:243
+#: customizer/register-panels-and-sections.php:581
+msgid "Brand"
+msgstr "Marca"
+
+#: customizer/register-panels-and-sections.php:236
+#: customizer/register-panels-and-sections.php:589
+msgid "Highlight"
+msgstr "Destacado"
+
+#: customizer/register-panels-and-sections.php:227
+#: customizer/register-panels-and-sections.php:549
+msgid "Product List Carousel"
+msgstr "Carrusel de lista de productos"
+
+#: customizer/register-panels-and-sections.php:220
+#: customizer/register-panels-and-sections.php:565
+msgid "Banner"
+msgstr "Banner"
+
+#: customizer/register-panels-and-sections.php:213
+#: customizer/register-panels-and-sections.php:533
+msgid "Product Carousel"
+msgstr "Carrusel de productos"
+
+#: customizer/register-panels-and-sections.php:206
+#: customizer/register-panels-and-sections.php:573
+msgid "Ribbon"
+msgstr "Cinta"
+
+#: customizer/register-panels-and-sections.php:199
+msgid "Product Tab Image Carousel"
+msgstr "Carrusel de imágenes de la pestaña de producto"
+
+#: customizer/register-panels-and-sections.php:193
+#: customizer/register-panels-and-sections.php:525
+msgid "Woo Category"
+msgstr "Categoría de WooCommerce"
+
+#: customizer/register-panels-and-sections.php:184
+#: customizer/register-panels-and-sections.php:541
+msgid "Tabbed Product Carousel"
+msgstr "Carrusel de productos con pestañas"
+
+#: customizer/register-panels-and-sections.php:177
+#: customizer/register-panels-and-sections.php:517
+msgid "Top Slider"
+msgstr "Carrusel superior"
+
+#: customizer/register-panels-and-sections.php:173
+msgid "Frontpage Sections"
+msgstr "Secciones de la página principal"
+
+#: customizer/register-panels-and-sections.php:164
+msgid "Social Icon"
+msgstr "Ícono de la red social"
+
+#: customizer/register-panels-and-sections.php:157
+msgid "Preloader"
+msgstr "Precargador"
+
+#: customizer/register-panels-and-sections.php:148
+msgid "RTL"
+msgstr "RTL"
+
+#: customizer/register-panels-and-sections.php:140
+msgid "Below Footer"
+msgstr "Debajo del pie de página"
+
+#: customizer/register-panels-and-sections.php:132
+msgid "Widget Footer"
+msgstr "Widgets del pie de página"
+
+#: customizer/register-panels-and-sections.php:124
+#: customizer/register-panels-and-sections.php:440
+msgid "Above Footer"
+msgstr "Encima del pie de página"
+
+#: customizer/register-panels-and-sections.php:110
+#: customizer/register-panels-and-sections.php:424
+#: lib/page-meta-box/bigstore-page-meta-box.php:31
+msgid "Sidebar"
+msgstr "Barra lateral "
+
+#: customizer/register-panels-and-sections.php:103
+#: customizer/register-panels-and-sections.php:433
+msgid "Footer"
+msgstr "Pie de página"
+
+#: customizer/register-panels-and-sections.php:96 inc/admin-function.php:484
+msgid "Blog"
+msgstr "Blog"
+
+#: customizer/register-panels-and-sections.php:87
+msgid "Exclude Category"
+msgstr "Excluir categorías"
+
+#: customizer/register-panels-and-sections.php:78
+#: customizer/register-panels-and-sections.php:324
+msgid "Main Header"
+msgstr "Cabecera principal"
+
+#: customizer/register-panels-and-sections.php:70
+#: customizer/register-panels-and-sections.php:316
+msgid "Above Header"
+msgstr "Encima de la cabecera"
+
+#: customizer/register-panels-and-sections.php:62
+#: customizer/register-panels-and-sections.php:310
+#: customizer/register-panels-and-sections.php:380
+msgid "Header"
+msgstr "Cabecera"
+
+#: customizer/register-panels-and-sections.php:57
+#: customizer/section/layout/footer/above-footer.php:17
+#: customizer/section/layout/footer/bottom-footer22.php:16
+#: customizer/section/layout/footer/widget-footer.php:16
+#: customizer/section/layout/header/above-header.php:32
+msgid "Layout"
+msgstr "Diseño"
+
+#: customizer/register-panels-and-sections.php:46
+msgid "Background"
+msgstr "Fondo"
+
+#: customizer/register-panels-and-sections.php:39
+#: customizer/section-ordering.php:56
+#: customizer/section/color/above-footer-color.php:151
+#: customizer/section/color/above-header-color.php:76
+#: customizer/section/color/global-color.php:108
+#: customizer/section/layout/blog/blog.php:102
+#: customizer/section/layout/footer/above-footer.php:371
+#: customizer/section/layout/footer/bottom-footer22.php:88
+#: customizer/section/layout/footer/widget-footer.php:81
+#: customizer/section/layout/header/above-header.php:380
+#: customizer/section/layout/header/loader.php:55
+#: customizer/section/layout/header/main-header.php:283
+#: customizer/section/layout/header/set-identity.php:99
+#: customizer/section/layout/social-icon/social-icon.php:147
+#: customizer/section/woo/cart.php:80 customizer/section/woo/product.php:61
+#: customizer/section/woo/shop.php:64
+#: customizer/section/woo/single-product.php:174
+#: customizer/section/woo/tooltip.php:178
+msgid "To know more go with this"
+msgstr "Para saber más, dirígete aquí"
+
+#: customizer/register-panels-and-sections.php:24
+msgid "WordPress Default"
+msgstr "Por defecto de WordPress"
+
+#: customizer/repeater/class-big-store-repeater.php:924
+#: customizer/repeater/class-big-store-repeater.php:962
+msgid "Add Icon"
+msgstr "Añadir icono"
+
+#: customizer/repeater/class-big-store-repeater.php:919
+#: customizer/repeater/class-big-store-repeater.php:956
+msgid "Remove Icon"
+msgstr "Eliminar ícono"
+
+#. translators: Fontawesome link with full list of icons available
+#: customizer/repeater/class-big-store-repeater.php:894
+msgid "Note: Some icons may not be displayed here. You can see the full list of icons at Fontawesome website ."
+msgstr "Nota: Puede que algunos íconos no se muestren aquí. Puedes ver la lista completa de íconos en la web de Font Awesome."
+
+#: customizer/repeater/class-big-store-repeater.php:889
+msgid "Social icons"
+msgstr "Íconos sociales"
+
+#: customizer/repeater/class-big-store-repeater.php:875
+#: customizer/section/layout/footer/above-footer.php:51
+#: customizer/section/layout/footer/above-footer.php:137
+#: customizer/section/layout/footer/above-footer.php:220
+#: customizer/section/layout/footer/bottom-footer22.php:50
+#: customizer/section/layout/header/above-header.php:234
+#: customizer/section/layout/header/main-header.php:88
+#: customizer/section/woo/product.php:18
+msgid "None"
+msgstr "Ninguno"
+
+#: customizer/repeater/class-big-store-repeater.php:869
+msgid "Image type"
+msgstr "Tipo de imagen"
+
+#: customizer/repeater/class-big-store-repeater.php:853
+#: customizer/repeater/class-big-store-repeater.php:874
+msgid "Logo Image"
+msgstr "Imagen del logotipo"
+
+#: customizer/repeater/class-big-store-repeater.php:833
+#: customizer/repeater/class-big-store-repeater.php:856
+msgid "Upload Image"
+msgstr "Cargar imagen"
+
+#: customizer/repeater/class-big-store-repeater.php:830
+#: customizer/repeater/class-big-store-repeater.php:873
+msgid "Image"
+msgstr "Imagen"
+
+#. translators: Fontawesome link with full list of icons available
+#: customizer/repeater/class-big-store-repeater.php:788
+msgid "Note: Some icons may not be displayed here. You can see the full list of icons at Fontawesome Website."
+msgstr "Nota: Puede que algunos íconos no se muestren aquí. Puedes ver la lista completa de íconos en el sitio de Font Awesome."
+
+#: customizer/repeater/class-big-store-repeater.php:782
+#: customizer/repeater/class-big-store-repeater.php:872
+msgid "Icon"
+msgstr "Ícono"
+
+#: customizer/repeater/class-big-store-repeater.php:567
+#: customizer/repeater/class-big-store-repeater.php:710
+msgid "Delete field"
+msgstr "Borrar campo"
+
+#: customizer/repeater/class-big-store-repeater.php:548
+#: customizer/repeater/class-big-store-repeater.php:698
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: customizer/repeater/class-big-store-repeater.php:529
+#: customizer/repeater/class-big-store-repeater.php:680
+#: customizer/section/layout/header/main-header.php:100
+#: customizer/section/layout/header/main-header.php:106
+msgid "Button Text"
+msgstr "Texto del botón"
+
+#: customizer/repeater/class-big-store-repeater.php:519
+#: customizer/repeater/class-big-store-repeater.php:538
+#: customizer/repeater/class-big-store-repeater.php:671
+#: customizer/repeater/class-big-store-repeater.php:689
+#: customizer/repeater/class-big-store-repeater.php:916
+#: customizer/repeater/class-big-store-repeater.php:942
+msgid "Link"
+msgstr "Enlace"
+
+#: customizer/repeater/class-big-store-repeater.php:510
+#: customizer/repeater/class-big-store-repeater.php:662
+#: customizer/section/layout/footer/above-footer.php:52
+#: customizer/section/layout/footer/above-footer.php:67
+#: customizer/section/layout/footer/above-footer.php:138
+#: customizer/section/layout/footer/above-footer.php:152
+#: customizer/section/layout/footer/above-footer.php:221
+#: customizer/section/layout/footer/above-footer.php:235
+#: customizer/section/layout/footer/bottom-footer22.php:51
+#: customizer/section/layout/footer/bottom-footer22.php:70
+#: customizer/section/layout/header/above-header.php:65
+#: customizer/section/layout/header/above-header.php:81
+#: customizer/section/layout/header/above-header.php:166
+#: customizer/section/layout/header/above-header.php:235
+#: customizer/section/layout/header/above-header.php:252
+msgid "Text"
+msgstr "Texto"
+
+#: customizer/repeater/class-big-store-repeater.php:501
+#: customizer/repeater/class-big-store-repeater.php:653
+msgid "Subtitle"
+msgstr "Subtítulo"
+
+#: customizer/repeater/class-big-store-repeater.php:491
+#: customizer/repeater/class-big-store-repeater.php:642
+msgid "Number"
+msgstr "Número"
+
+#: customizer/repeater/class-big-store-repeater.php:480
+#: customizer/repeater/class-big-store-repeater.php:631
+msgid "Price"
+msgstr "Precio"
+
+#: customizer/repeater/class-big-store-repeater.php:469
+#: customizer/repeater/class-big-store-repeater.php:620
+msgid "Title"
+msgstr "Título"
+
+#: customizer/repeater/class-big-store-repeater.php:448
+#: customizer/repeater/class-big-store-repeater.php:459
+#: customizer/repeater/class-big-store-repeater.php:600
+#: customizer/repeater/class-big-store-repeater.php:610
+#: customizer/section/color/below-header-color.php:77
+msgid "Color"
+msgstr "Color"
+
+#: customizer/repeater/class-big-store-repeater.php:169
+msgid "Customizer Repeater"
+msgstr "Repetidor del personalizador"
+
+#: customizer/repeater/class-big-store-repeater.php:164
+msgid "Add new field"
+msgstr "Añadir un nuevo campo"
+
+#: customizer/background/class-big-store-background-image-control.php:300
+msgid "Scroll"
+msgstr "Scroll"
+
+#: customizer/background/class-big-store-background-image-control.php:299
+msgid "Fixed"
+msgstr "Fijo"
+
+#: customizer/background/class-big-store-background-image-control.php:296
+msgid "Center Bottom"
+msgstr "Abajo al centro"
+
+#: customizer/background/class-big-store-background-image-control.php:295
+msgid "Center Center"
+msgstr "Centro centro"
+
+#: customizer/background/class-big-store-background-image-control.php:294
+msgid "Center Top"
+msgstr "Arriba al centro"
+
+#: customizer/background/class-big-store-background-image-control.php:293
+msgid "Right Bottom"
+msgstr "Abajo a la derecha"
+
+#: customizer/background/class-big-store-background-image-control.php:292
+msgid "Right Center"
+msgstr "Centro a la derecha"
+
+#: customizer/background/class-big-store-background-image-control.php:291
+msgid "Right Top"
+msgstr "Arriba a la derecha "
+
+#: customizer/background/class-big-store-background-image-control.php:290
+msgid "Left Bottom"
+msgstr "Abajo a la izquierda"
+
+#: customizer/background/class-big-store-background-image-control.php:289
+msgid "Left Center"
+msgstr "Centro a la izquierda"
+
+#: customizer/background/class-big-store-background-image-control.php:288
+msgid "Left Top"
+msgstr "Arriba a la izquierda"
+
+#: customizer/background/class-big-store-background-image-control.php:285
+msgid "Contain"
+msgstr "Contiene"
+
+#: customizer/background/class-big-store-background-image-control.php:284
+msgid "Cover"
+msgstr "Cubrir"
+
+#: customizer/background/class-big-store-background-image-control.php:280
+msgid "Tile Vertically"
+msgstr "Alinear verticalmente"
+
+#: customizer/background/class-big-store-background-image-control.php:279
+msgid "Tile Horizontally"
+msgstr "Alinear horizontalmente"
+
+#: customizer/background/class-big-store-background-image-control.php:278
+msgid "Tile"
+msgstr "Mosaico"
+
+#: customizer/background/class-big-store-background-image-control.php:277
+msgid "No Repeat"
+msgstr "No repetir"
+
+#: customizer/background/class-big-store-background-image-control.php:260
+msgid "Background Attachment"
+msgstr "Adjunto del fondo"
+
+#: customizer/background/class-big-store-background-image-control.php:259
+msgid "Background Position"
+msgstr "Posición del fondo"
+
+#: customizer/background/class-big-store-background-image-control.php:258
+msgid "Background Size"
+msgstr "Tamaño del fondo"
+
+#: customizer/background/class-big-store-background-image-control.php:257
+msgid "Background Repeat"
+msgstr "Repetir fondo"
+
+#: customizer/background/class-big-store-background-image-control.php:242
+msgid "Choose Image"
+msgstr "Elegir imagen"
+
+#: customizer/background/class-big-store-background-image-control.php:240
+msgid "No image selected"
+msgstr "Ninguna imagen seleccionada"
+
+#: customizer/background/class-big-store-background-image-control.php:239
+#: customizer/background/class-big-store-background-image-control.php:283
+msgid "Default"
+msgstr "Por defecto"
+
+#: customizer/background/class-big-store-background-image-control.php:238
+msgid "Remove"
+msgstr "Eliminar"
+
+#: customizer/background/class-big-store-background-image-control.php:237
+msgid "Change Image"
+msgstr "Cambiar la imagen"
+
+#: customizer/background/class-big-store-background-image-control.php:236
+#: customizer/background/class-big-store-background-image-control.php:241
+msgid "Select Image"
+msgstr "Selecciona una imagen"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-single.php:35
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Continuar leyendo<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: template-parts/content-none.php:44
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que no encontramos lo que estás buscando. Puede que una búsqueda te ayude."
+
+#: template-parts/content-none.php:38
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo siento, pero nada coincide con tus términos de búsqueda. Por favor, prueba de nuevo con algunas palabras diferentes."
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:25
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Listo para publicar tu primera entrada? <a href=\"%1$s\">Empieza aquí</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "No se encontró nada"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-page.php:29
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Editar <span class=\"screen-reader-text\">%s</span>"
+
+#: template-parts/content-page.php:17 template-parts/content-single.php:46
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: template-parts/author-bio.php:18
+msgid "Written by"
+msgstr "Escrito por"
+
+#: header.php:74
+msgid "Skip to content"
+msgstr "Ir al contenido"
+
+#: 404.php:26
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Parece que no se ha encontrado nada en esta ubicación, ¿qué tal si intentas con una búsqueda?"
+
+#: 404.php:22
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "¡Vaya! Está página no se encuentra."
+
+#: 404.php:21
+msgid "404"
+msgstr "404"
+
+#: functions.php:320
+msgid "Footer Widget Area %d"
+msgstr "Área %d de widgets del pie de página "
+
+#: functions.php:310
+msgid "Footer Below Third Widget"
+msgstr "Tercer widget debajo del pie de página"
+
+#: functions.php:301
+msgid "Footer Below Second Widget"
+msgstr "Segundo widget debajo del pie de página"
+
+#: functions.php:292
+msgid "Footer Below First Widget"
+msgstr "Primer widget debajo del pie de página"
+
+#: functions.php:283
+msgid "Footer Top Third Widget"
+msgstr "Tercer widget arriba del pie de página"
+
+#: functions.php:274
+msgid "Footer Top Second Widget"
+msgstr "Segundo widget arriba del pie de página"
+
+#: functions.php:267 functions.php:276 functions.php:285 functions.php:294
+#: functions.php:303 functions.php:312
+msgid "Add widgets here to appear in top footer."
+msgstr "Añade widgets aquí para que aparezcan en el pie de página superior."
+
+#: functions.php:265
+msgid "Footer Top First Widget"
+msgstr "Primer widget arriba del pie de página"
+
+#: functions.php:258
+msgid "Add widgets here to appear in main header."
+msgstr "Añade widgets aquí para que aparezcan en la cabecera principal."
+
+#: functions.php:256
+msgid "Main Header Widget"
+msgstr "Widget de la cabecera principal"
+
+#: functions.php:246
+msgid "Above Header Third Widget"
+msgstr "Tercer widget encima de la cabecera"
+
+#: functions.php:237
+msgid "Above Header Second Widget"
+msgstr "Segundo widget encima de la cabecera"
+
+#: functions.php:230 functions.php:239 functions.php:248
+msgid "Add widgets here to appear in top header."
+msgstr "Añade widgets aquí para que aparezcan en la cabecera superior."
+
+#: functions.php:228
+msgid "Above Header First Widget"
+msgstr "Primer widget encima de la cabecera"
+
+#: functions.php:221
+msgid "Add widgets here to appear in your primary sidebar."
+msgstr "Añade widgets aquí para que aparezcan en tu barra lateral principal."
+
+#: functions.php:219
+msgid "Primary Sidebar"
+msgstr "Barra lateral principal"
+
+#: functions.php:173
+msgid "One Click Demo Import"
+msgstr "Importación de la demo en un clic"
+
+#: functions.php:202
+msgid "Megamenu plugin from Themehunk."
+msgstr "Megamenu plugin from Themehunk."
+
+#: functions.php:144
+msgid "WP Popup Builder – Popup Forms & Newsletter"
+msgstr "WP Popup Builder – Popup Forms & Newsletter"
+
+#: functions.php:139
+msgid "Lead Form Builder"
+msgstr "Lead Form Builder"
+
+#: customizer/register-panels-and-sections.php:467 functions.php:149
+#: functions.php:178 lib/th-option/welcome.php:63
+msgid "Woocommerce"
+msgstr "WooCommerce"
+
+#: functions.php:167
+msgid "Themehunk Customizer"
+msgstr "Themehunk Customizer"
+
+#: functions.php:155
+msgid "YITH WooCommerce Wishlist"
+msgstr "YITH WooCommerce Wishlist"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://www.themehunk.com"
+msgstr "https://www.themehunk.com"
+
+#. Author of the theme
+#: lib/th-option/th-option.php:47
+#, gp-priority: low
+msgid "ThemeHunk"
+msgstr "ThemeHunk"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://themehunk.com/product/big-store/"
+msgstr "https://themehunk.com/product/big-store/"
