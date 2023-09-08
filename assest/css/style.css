@@ -118,7 +118,7 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    align-content: center;
+    flex-grow: 1;
     gap: 20px;
     clip-path: circle(0 at center);
     transition: clip-path 1s ease-in-out;    
@@ -163,8 +163,6 @@
 
 .iconos__compartir{
     display: flex;
-    align-content: center;
-    align-items: center;
     gap: 20px;
     
 }
